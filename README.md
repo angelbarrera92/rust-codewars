@@ -9,3 +9,4 @@ You will find the code to be looking like a mix of Python and Go, but I hope to 
 My [codewars profile](https://www.codewars.com/users/angelbarrera92) is linked to [my github account](https://github.com/angelbarrera92), so you can see my progress there.
 
 - *05/08/2023* - **7 kyu** - [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) - [Solution](src/codewars/credit_card_mask.rs)
+- *06/08/2023* - **6 kyu** - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) - [Solution](src/codewars/camel_case_method.rs)
