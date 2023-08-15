@@ -10,4 +10,5 @@ My [codewars profile](https://www.codewars.com/users/angelbarrera92) is linked t
 
 - *05/08/2023* - **7 kyu** - [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) - [Solution](src/codewars/credit_card_mask.rs)
 - *06/08/2023* - **6 kyu** - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) - [Solution](src/codewars/camel_case_method.rs)
-- *08/08/2023* - **6 kyu** - [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/) - [Solution](src/codewars/the_supermarket_queue.rs)
+- *08/08/2023* - **6 kyu** - [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) - [Solution](src/codewars/the_supermarket_queue.rs)
+- *15/08/2023* - **5 kyu** - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) - [Solution](src/codewars/not_very_secure.rs)
